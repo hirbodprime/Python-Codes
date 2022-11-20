@@ -1,5 +1,4 @@
 # parts that have C-137 are incomplete but rest of the program works like a melon sorry in advanced
-
 import colorama
 from colorama import Fore, Back, Style
 #Initialize colorama
