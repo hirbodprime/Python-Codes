@@ -2,5 +2,5 @@
 
 # cd my_venv/Scripts/activate
 
-# pip install req.txt
+# python -m pip install -r req.txt
 
